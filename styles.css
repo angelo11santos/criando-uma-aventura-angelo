@@ -1,5 +1,5 @@
-body{
-    background-color: #1d4221;
+body {
+    background-color: #1D4221;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
     display: flex;
@@ -8,8 +8,9 @@ body{
     height: 700px;
     margin: 0;
 }
-button{
-background-color: #64A712;
-color:white;
-font-family: "Bai Jamjuree", sans-serif;
+
+button {
+    background-color: #64A712;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
 }
